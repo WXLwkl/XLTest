@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:123.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TrigonTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Demo3DTouch.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SplitViewController.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSURLSessionDownloadDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CoreTextDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:KVC&amp;KVODemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ImagePickerControllerDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Notification.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSURLSession.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ScanDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SoundDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIStackView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIPageViewControllerDemo.xcodeproj">
+   </FileRef>
+</Workspace>
